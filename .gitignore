@@ -16,4 +16,7 @@ places
 .smex-items
 savefile/
 /prelude-modules.el
-projectile-bookmarks.eld
+projectile-bookmarks.eldswank/
+*.dat
+personal
+swank
